@@ -18,3 +18,7 @@
 	path = meta-layers/meta-emlid-neutis-manufacturing
 	url = git@github.com:emlid/meta-emlid-neutis-manufacturing.git
 	branch = master
+[submodule "meta-layers/meta-qt5"]
+	path = meta-layers/meta-qt5
+	url = git@github.com:meta-qt5/meta-qt5.git
+	branch = rocko
