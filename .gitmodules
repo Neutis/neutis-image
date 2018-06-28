@@ -22,3 +22,7 @@
 	path = meta-layers/meta-qt5
 	url = git@github.com:meta-qt5/meta-qt5.git
 	branch = rocko
+[submodule "meta-layers/meta-emlid-neutis-examples"]
+	path = meta-layers/meta-emlid-neutis-examples
+	url = git@github.com:emlid/meta-emlid-neutis-examples.git
+	branch = rocko
