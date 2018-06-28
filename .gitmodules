@@ -14,3 +14,7 @@
 	path = meta-layers/meta-emlid-neutis
 	url = git@github.com:emlid/meta-emlid-neutis.git
 	branch = master
+[submodule "meta-layers/meta-emlid-neutis-manufacturing"]
+	path = meta-layers/meta-emlid-neutis-manufacturing
+	url = git@github.com:emlid/meta-emlid-neutis-manufacturing.git
+	branch = master
