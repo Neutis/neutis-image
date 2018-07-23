@@ -14,6 +14,7 @@ meta_layers=(
 	'meta-openembedded/meta-webserver'
 	'meta-emlid-neutis/meta-neutis-bsp'
 	'meta-emlid-neutis/meta-neutis-distro'
+	'meta-emlid-neutis-manufacturing'
 )
 
 for i in ${meta_layers[@]}; do
