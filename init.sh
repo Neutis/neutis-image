@@ -15,6 +15,8 @@ meta_layers=(
 	'meta-emlid-neutis/meta-neutis-bsp'
 	'meta-emlid-neutis/meta-neutis-distro'
 	'meta-emlid-neutis-manufacturing'
+	'meta-qt5'
+	'meta-emlid-neutis-examples'
 )
 
 for i in ${meta_layers[@]}; do
