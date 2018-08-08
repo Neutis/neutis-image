@@ -1,28 +1,28 @@
 [submodule "poky"]
 	path = poky
-	url = git://git.yoctoproject.org/poky
+	url = https://git.yoctoproject.org/git/poky
 	branch = rocko
 [submodule "meta-layers/meta-sunxi"]
 	path = meta-layers/meta-sunxi
-	url = git@github.com:emlid/meta-sunxi.git
+	url = https://github.com/emlid/meta-sunxi.git
 	branch = emlid-dev
 [submodule "meta-layers/meta-openembedded"]
 	path = meta-layers/meta-openembedded
-	url = git@github.com:openembedded/meta-openembedded.git
+	url = https://github.com/openembedded/meta-openembedded.git
 	branch = rocko
 [submodule "meta-layers/meta-emlid-neutis"]
 	path = meta-layers/meta-emlid-neutis
-	url = git@github.com:emlid/meta-emlid-neutis.git
+	url = https://github.com/emlid/meta-emlid-neutis.git
 	branch = master
 [submodule "meta-layers/meta-emlid-neutis-manufacturing"]
 	path = meta-layers/meta-emlid-neutis-manufacturing
-	url = git@github.com:emlid/meta-emlid-neutis-manufacturing.git
+	url = https://github.com/emlid/meta-emlid-neutis-manufacturing.git
 	branch = master
 [submodule "meta-layers/meta-qt5"]
 	path = meta-layers/meta-qt5
-	url = git@github.com:meta-qt5/meta-qt5.git
+	url = https://github.com/meta-qt5/meta-qt5.git
 	branch = rocko
 [submodule "meta-layers/meta-emlid-neutis-examples"]
 	path = meta-layers/meta-emlid-neutis-examples
-	url = git@github.com:emlid/meta-emlid-neutis-examples.git
+	url = https://github.com/emlid/meta-emlid-neutis-examples.git
 	branch = rocko
