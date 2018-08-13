@@ -4,19 +4,19 @@
 	branch = rocko
 [submodule "meta-layers/meta-sunxi"]
 	path = meta-layers/meta-sunxi
-	url = https://github.com/emlid/meta-sunxi.git
-	branch = emlid-dev
+	url = https://github.com/Neutis/meta-sunxi.git
+	branch = neutis-dev
 [submodule "meta-layers/meta-openembedded"]
 	path = meta-layers/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
 	branch = rocko
 [submodule "meta-layers/meta-emlid-neutis"]
 	path = meta-layers/meta-emlid-neutis
-	url = https://github.com/emlid/meta-emlid-neutis.git
+	url = https://github.com/Neutis/meta-emlid-neutis.git
 	branch = master
 [submodule "meta-layers/meta-emlid-neutis-manufacturing"]
 	path = meta-layers/meta-emlid-neutis-manufacturing
-	url = https://github.com/emlid/meta-emlid-neutis-manufacturing.git
+	url = https://github.com/Neutis/meta-emlid-neutis-manufacturing.git
 	branch = master
 [submodule "meta-layers/meta-qt5"]
 	path = meta-layers/meta-qt5
@@ -24,5 +24,5 @@
 	branch = rocko
 [submodule "meta-layers/meta-emlid-neutis-examples"]
 	path = meta-layers/meta-emlid-neutis-examples
-	url = https://github.com/emlid/meta-emlid-neutis-examples.git
+	url = https://github.com/Neutis/meta-emlid-neutis-examples.git
 	branch = rocko
