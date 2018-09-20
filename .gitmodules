@@ -1,7 +1,7 @@
 [submodule "poky"]
 	path = poky
 	url = https://git.yoctoproject.org/git/poky
-	branch = rocko
+	branch = sumo
 [submodule "meta-layers/meta-sunxi"]
 	path = meta-layers/meta-sunxi
 	url = https://github.com/Neutis/meta-sunxi.git
@@ -9,20 +9,24 @@
 [submodule "meta-layers/meta-openembedded"]
 	path = meta-layers/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
-	branch = rocko
+	branch = sumo
 [submodule "meta-layers/meta-emlid-neutis"]
 	path = meta-layers/meta-emlid-neutis
 	url = https://github.com/Neutis/meta-emlid-neutis.git
-	branch = master
+	branch = sumo
 [submodule "meta-layers/meta-emlid-neutis-manufacturing"]
 	path = meta-layers/meta-emlid-neutis-manufacturing
 	url = https://github.com/Neutis/meta-emlid-neutis-manufacturing.git
-	branch = master
+	branch = sumo
 [submodule "meta-layers/meta-qt5"]
 	path = meta-layers/meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
-	branch = rocko
+	branch = sumo
 [submodule "meta-layers/meta-emlid-neutis-examples"]
 	path = meta-layers/meta-emlid-neutis-examples
 	url = https://github.com/Neutis/meta-emlid-neutis-examples.git
-	branch = rocko
+	branch = sumo
+[submodule "meta-layers/meta-mender"]
+	path = meta-layers/meta-mender
+	url = https://github.com/Neutis/meta-mender.git
+	branch = emlid-neutis-support
